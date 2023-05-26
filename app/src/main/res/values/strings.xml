@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Porticos_WageCalc</string>
+    <string name="Kira_s_hourly_wage">Bocchi\'s Hourly Wage:</string>
+    <string name="Kira_s_hours_worked">Bocchi\'s Hours Worked:</string>
+    <string name="enter_hourly_wage">Enter hourly wage</string>
+    <string name="enter_hours_worked">Enter hours worked</string>
+    <string name="calculate">Calculate</string>
+</resources>
